@@ -11,7 +11,7 @@ import com.Adminsampledemo.Model.User;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/admins")
+@RequestMapping("/api/admins") ///blesson im 
 public class AdminController {
 
     @Autowired
